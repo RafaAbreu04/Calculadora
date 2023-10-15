@@ -1,0 +1,7 @@
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\bin\Debug\Calculadora_Ex.exe.config
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\bin\Debug\Calculadora_Ex.exe
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\bin\Debug\Calculadora_Ex.pdb
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\obj\Debug\Calculadora_Ex.csproj.AssemblyReference.cache
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\obj\Debug\Calculadora_Ex.csproj.CoreCompileInputs.cache
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\obj\Debug\Calculadora_Ex.exe
+C:\Users\rafaelly.agalhardo\source\repos\Calculadora_Ex\obj\Debug\Calculadora_Ex.pdb
