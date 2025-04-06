@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\bin\Debug\CalculadoraDelegate.exe.config
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\bin\Debug\CalculadoraDelegate.exe
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\bin\Debug\CalculadoraDelegate.pdb
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\obj\Debug\CalculadoraDelegate.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\obj\Debug\CalculadoraDelegate.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\obj\Debug\CalculadoraDelegate.exe
+C:\Users\USUARIO\Source\Repos\CalculadoraDelegate\obj\Debug\CalculadoraDelegate.pdb
